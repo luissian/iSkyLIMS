@@ -3,7 +3,7 @@
 	url = https://github.com/BU-ISCIII/iSkyLIMS_drylab.git
 [submodule "iSkyLIMS_wetlab"]
 	path = iSkyLIMS_wetlab
-	url = https://github.com/BU-ISCIII/iSkyLIMS_wetlab.git
+	url = https://github.com/luissian/iSkyLIMS_wetlab.git
 [submodule "iSkyLIMS_home"]
 	path = iSkyLIMS_home
 	url = https://github.com/BU-ISCIII/iSkyLIMS_home.git
